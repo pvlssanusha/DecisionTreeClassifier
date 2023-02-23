@@ -1,5 +1,5 @@
 # DecisionTreeClassifier
-This is an implementation of the Decision Tree Classifier algorithm in Python. The algorithm is based on the ID3 (Iterative Dichotomiser 3) algorithm.This Code helps you to build desicion tree for classification dataset.It firstly builds the model from the Training DataSet and it also predicts the class values of a new testing data set
+This is an implementation of the Decision Tree Classifier algorithm in Python from scratch without using ML Libraries. The algorithm is based on the ID3 (Iterative Dichotomiser 3) algorithm.This Code helps you to build desicion tree for classification dataset.It firstly builds the model from the Training DataSet and it also predicts the class values of a new testing data set
 
 <h2>Requirements</h2>
 Python 3.6 or higher
